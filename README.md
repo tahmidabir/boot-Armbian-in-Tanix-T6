@@ -29,13 +29,13 @@ Belena Etcher or Win32 Disk Imager can be used
 
 No we need to burn the images in the Sd card . Fist write the Armbian Image,
 
-<img src="images/belenaEtcher1.jpg" >
+<img src="images/belenaEtcher1.jpg" width="400" height="250" >
 
 eject the SD card, reinsert it and then write the u-boot image in the same drive
 
 [Note: Ignore any kind of error/format dialogs in between]
 
-<img src="images/belenaEtcher2.jpg" >
+<img src="images/belenaEtcher2.jpg" width="400" height="250"  >
 
 #### Edit files inside the booted sd card
 
