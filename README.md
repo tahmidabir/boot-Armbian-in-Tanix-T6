@@ -1,5 +1,5 @@
 
-## Processed followed for installing Armbian in Tanix T6 Android Tv Box
+## Installing Armbian in Tanix Tx6 Android Tv Box
 
 #### [Note: There are several types of Tx6 boxes, make sure you are buying Tx6-A , not Tx6-P or anything else]
 
