@@ -1,7 +1,7 @@
 
 ## Installing Armbian in Tanix Tx6 Android Tv Box
 
-#### [Note: There are several types of Tx6 boxes, make sure you are buying Tx6-A , not Tx6-P or anything else]
+#### [Note: There are several types of Tx6 boxes, make sure you are buying Tx6-A which contains Allwinner H6 chip, not Tx6-P or anything else]
 
 #### Downloading Armbian Image
 
